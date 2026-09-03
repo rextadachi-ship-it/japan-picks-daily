@@ -1,0 +1,28 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Japan Picks Daily mascot — Riri the Traveling Squirrel">
+  <circle cx="100" cy="100" r="98" fill="#FBEADD"/>
+  <!-- tail -->
+  <path d="M148 150 C185 140 190 90 165 62 C182 78 188 118 160 142 C172 116 168 84 148 68 C160 92 158 122 138 138 Z" fill="#C97B3D"/>
+  <path d="M148 150 C185 140 190 90 165 62 C182 78 188 118 160 142 C172 116 168 84 148 68 C160 92 158 122 138 138 Z" fill="none" stroke="#A85F28" stroke-width="2" opacity="0.4"/>
+  <!-- ears -->
+  <circle cx="72" cy="55" r="16" fill="#C97B3D"/>
+  <circle cx="128" cy="55" r="16" fill="#C97B3D"/>
+  <circle cx="72" cy="57" r="8" fill="#F3D4B0"/>
+  <circle cx="128" cy="57" r="8" fill="#F3D4B0"/>
+  <!-- head -->
+  <ellipse cx="100" cy="105" rx="52" ry="48" fill="#D68A46"/>
+  <ellipse cx="100" cy="115" rx="34" ry="30" fill="#F6E2C6"/>
+  <!-- eyes -->
+  <circle cx="82" cy="108" r="6.5" fill="#4A3B2A"/>
+  <circle cx="118" cy="108" r="6.5" fill="#4A3B2A"/>
+  <circle cx="84" cy="106" r="2" fill="#FFFFFF"/>
+  <circle cx="120" cy="106" r="2" fill="#FFFFFF"/>
+  <!-- nose + mouth -->
+  <ellipse cx="100" cy="122" rx="4.5" ry="3.5" fill="#8A5A2A"/>
+  <path d="M92 128 q8 8 16 0" stroke="#4A3B2A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- cheeks -->
+  <circle cx="78" cy="122" r="7" fill="#F0A24A" opacity="0.55"/>
+  <circle cx="122" cy="122" r="7" fill="#F0A24A" opacity="0.55"/>
+  <!-- little acorn -->
+  <ellipse cx="100" cy="158" rx="10" ry="9" fill="#B5722E"/>
+  <path d="M91 154 q9 -10 18 0 z" fill="#7A9A5A"/>
+</svg>
